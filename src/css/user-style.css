@@ -1,0 +1,42 @@
+.country-flag {
+  width: 50px;
+  height: 25px;
+}
+.country-name,
+.info-item h2,
+.country-list__item p {
+  display: inline-block;
+}
+.country-list__item p {
+  margin: 0px 0px 0px 20px;
+  font-size: 1.1em;
+}
+.country-list__item img {
+  width: 30px;
+  height: 15px;
+}
+.country-list {
+  list-style: none;
+  padding-left: 0;
+  padding-left: 20px;
+}
+.info-item h2 {
+  margin: 0;
+  padding-right: 10px;
+}
+.info-item span {
+  font-size: 1.5em;
+}
+.info-list {
+  list-style: none;
+  padding-left: 0;
+}
+.country-info h1 {
+  margin: 0;
+  padding-left: 20px;
+}
+.country-info {
+  background-color: #e0d1d1;
+  padding-left: 20px;
+  max-width: 600px;
+}
